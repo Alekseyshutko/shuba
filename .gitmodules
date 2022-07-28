@@ -1,0 +1,3 @@
+[submodule "Shuba_front"]
+	path = Shuba_front
+	url = https://github.com/Alekseyshutko/Shuba_front.git
